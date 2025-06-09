@@ -1,0 +1,14 @@
+C:\Users\ccmd\Desktop\AP_06\Hotel\bin\Debug\net9.0\Hotel.exe
+C:\Users\ccmd\Desktop\AP_06\Hotel\bin\Debug\net9.0\Hotel.deps.json
+C:\Users\ccmd\Desktop\AP_06\Hotel\bin\Debug\net9.0\Hotel.runtimeconfig.json
+C:\Users\ccmd\Desktop\AP_06\Hotel\bin\Debug\net9.0\Hotel.dll
+C:\Users\ccmd\Desktop\AP_06\Hotel\bin\Debug\net9.0\Hotel.pdb
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.AssemblyInfo.cs
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.dll
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\refint\Hotel.dll
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.pdb
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\Hotel.genruntimeconfig.cache
+C:\Users\ccmd\Desktop\AP_06\Hotel\obj\Debug\net9.0\ref\Hotel.dll

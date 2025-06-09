@@ -1,0 +1,4 @@
+C:\Users\VITOR\Restaurante\obj\Debug\net9.0\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Restaurante\obj\Debug\net9.0\Restaurante.AssemblyInfoInputs.cache
+C:\Users\VITOR\Restaurante\obj\Debug\net9.0\Restaurante.AssemblyInfo.cs
+C:\Users\VITOR\Restaurante\obj\Debug\net9.0\Restaurante.csproj.CoreCompileInputs.cache

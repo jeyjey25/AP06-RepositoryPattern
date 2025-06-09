@@ -1,0 +1,14 @@
+C:\Users\VITOR\Musicas\bin\Debug\net9.0\Musicas.exe
+C:\Users\VITOR\Musicas\bin\Debug\net9.0\Musicas.deps.json
+C:\Users\VITOR\Musicas\bin\Debug\net9.0\Musicas.runtimeconfig.json
+C:\Users\VITOR\Musicas\bin\Debug\net9.0\Musicas.dll
+C:\Users\VITOR\Musicas\bin\Debug\net9.0\Musicas.pdb
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.AssemblyInfoInputs.cache
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.AssemblyInfo.cs
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.dll
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\refint\Musicas.dll
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.pdb
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\Musicas.genruntimeconfig.cache
+C:\Users\VITOR\Musicas\obj\Debug\net9.0\ref\Musicas.dll

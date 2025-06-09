@@ -1,0 +1,14 @@
+C:\Users\VITOR\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.exe
+C:\Users\VITOR\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.deps.json
+C:\Users\VITOR\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.runtimeconfig.json
+C:\Users\VITOR\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.dll
+C:\Users\VITOR\GerenciamentoFuncionarios\bin\Debug\net9.0\GerenciamentoFuncionarios.pdb
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.AssemblyInfo.cs
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.dll
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\refint\GerenciamentoFuncionarios.dll
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.pdb
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\GerenciamentoFuncionarios.genruntimeconfig.cache
+C:\Users\VITOR\GerenciamentoFuncionarios\obj\Debug\net9.0\ref\GerenciamentoFuncionarios.dll

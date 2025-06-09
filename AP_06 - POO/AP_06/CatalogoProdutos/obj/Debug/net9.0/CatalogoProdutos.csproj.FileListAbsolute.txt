@@ -1,0 +1,14 @@
+C:\Users\VITOR\CatalogoProdutos\bin\Debug\net9.0\CatalogoProdutos.exe
+C:\Users\VITOR\CatalogoProdutos\bin\Debug\net9.0\CatalogoProdutos.deps.json
+C:\Users\VITOR\CatalogoProdutos\bin\Debug\net9.0\CatalogoProdutos.runtimeconfig.json
+C:\Users\VITOR\CatalogoProdutos\bin\Debug\net9.0\CatalogoProdutos.dll
+C:\Users\VITOR\CatalogoProdutos\bin\Debug\net9.0\CatalogoProdutos.pdb
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.AssemblyInfoInputs.cache
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.AssemblyInfo.cs
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.dll
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\refint\CatalogoProdutos.dll
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.pdb
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\CatalogoProdutos.genruntimeconfig.cache
+C:\Users\VITOR\CatalogoProdutos\obj\Debug\net9.0\ref\CatalogoProdutos.dll

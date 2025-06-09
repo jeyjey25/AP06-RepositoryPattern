@@ -1,0 +1,14 @@
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.AssemblyInfo.cs
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Filmes\bin\Debug\net9.0\Filmes.exe
+C:\Users\VITOR\Filmes\bin\Debug\net9.0\Filmes.deps.json
+C:\Users\VITOR\Filmes\bin\Debug\net9.0\Filmes.runtimeconfig.json
+C:\Users\VITOR\Filmes\bin\Debug\net9.0\Filmes.dll
+C:\Users\VITOR\Filmes\bin\Debug\net9.0\Filmes.pdb
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.dll
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\refint\Filmes.dll
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.pdb
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\Filmes.genruntimeconfig.cache
+C:\Users\VITOR\Filmes\obj\Debug\net9.0\ref\Filmes.dll
